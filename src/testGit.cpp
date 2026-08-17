@@ -44,5 +44,5 @@ void printList(Node* head) {
         std::cout << temp->data << " <-> ";
         temp = temp->next;
     }
-    std::cout << "nullptr\n";
+    std::cout << "nullptr,Ö¸ÕëÎª¿Õ\n";
 }

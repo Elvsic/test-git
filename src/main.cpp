@@ -16,6 +16,11 @@ int main() {
     deleteNode(head, target);
 
     std::cout << "删除后链表: ";
+
+    std::cout << "第四次提交: ";
+    std::cout << "git-4: ";
+
+
     printList(head);
 
     return 0;
