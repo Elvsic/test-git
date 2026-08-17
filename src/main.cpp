@@ -4,7 +4,7 @@
 int main() {
     Node* head = nullptr;
 
-    append(head, 10);
+    append(head, 40);
     append(head, 20);
     append(head, 30);
 
