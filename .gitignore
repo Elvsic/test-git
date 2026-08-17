@@ -1,0 +1,11 @@
+# 忽略根目录下的所有内容
+/*
+
+# 允许保留 .gitignore 文件本身（否则 git 会忽略它）
+!.gitignore
+
+# 白名单：只保留 README 文件（兼容各种扩展名，如 README.md, README.txt 等）
+!README*
+
+# 白名单：只保留 src 文件夹及其内部所有内容
+!/src/
